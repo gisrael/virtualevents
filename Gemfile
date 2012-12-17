@@ -12,6 +12,7 @@ group :development, :test do
   gem 'capybara'
   gem "simple_calendar"
   gem "jquery-rails"
+  gem 'jquery-ui-rails'
 end
 group :production do
   gem 'pg'
