@@ -1,4 +1,4 @@
-1355768473
+1355769214
 About	C:/Users/Izzy/Documents/Code/firstapp/app/models/about.rb	class About 
 Abouts	C:/Users/Izzy/Documents/Code/firstapp/spec/requests/abouts_spec.rb	describe "Abouts" do
 AboutsController	C:/Users/Izzy/Documents/Code/firstapp/app/controllers/abouts_controller.rb	class AboutsController 
