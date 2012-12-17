@@ -60,9 +60,6 @@ cursor_positions:
   - :path: app/models/contact.rb
     :cursor_offset: 0
     :timestamp: 2012-12-16 17:30:42.910000 -05:00
-  - :path: app/controllers/groups_controller.rb
-    :cursor_offset: 0
-    :timestamp: 2012-09-30 13:28:34.320000 -04:00
   - :path: app/models/group.rb
     :cursor_offset: 58
     :timestamp: 2012-10-22 16:58:20.889000 -04:00
@@ -83,9 +80,6 @@ cursor_positions:
   - :path: app/views/events/edit.html.erb
     :cursor_offset: 0
     :timestamp: 2012-09-30 13:31:11.492000 -04:00
-  - :path: app/views/events/index.html.erb
-    :cursor_offset: 1438
-    :timestamp: 2012-12-16 21:00:00.320000 -05:00
   - :path: app/views/groups/index.html.erb
     :cursor_offset: 111
     :timestamp: 2012-12-16 18:15:36.643000 -05:00
@@ -104,9 +98,6 @@ cursor_positions:
   - :path: app/views/events/show.html.erb
     :cursor_offset: 276
     :timestamp: 2012-12-16 22:09:19.265000 -05:00
-  - :path: config/application.rb
-    :cursor_offset: 778
-    :timestamp: 2012-10-28 11:39:51.358000 -04:00
   - :path: app/assets/stylesheets/application.css
     :cursor_offset: 0
     :timestamp: 2012-09-16 13:44:46 -04:00
@@ -116,9 +107,6 @@ cursor_positions:
   - :path: app/assets/javascripts/events.js.coffee
     :cursor_offset: 0
     :timestamp: 2012-09-30 13:31:12.147000 -04:00
-  - :path: app/assets/javascripts/groups.js.coffee
-    :cursor_offset: 0
-    :timestamp: 2012-09-30 13:28:35.260000 -04:00
   - :path: app/assets/javascripts/abouts.js.coffee
     :cursor_offset: 0
     :timestamp: 2012-12-16 13:26:21.727000 -05:00
@@ -136,18 +124,28 @@ cursor_positions:
   - :path: app/assets/stylesheets/events.css.scss
     :cursor_offset: 0
     :timestamp: 2012-09-30 13:31:12.331000 -04:00
-  - :path: app/assets/javascripts/application.js
-    :cursor_offset: 662
-    :timestamp: 2012-12-17 13:29:32.281000 -05:00
-    :selection_offset: 641
-    :block_selection_mode: false
-  - :path: Gemfile
-    :cursor_offset: 308
-    :timestamp: 2012-12-17 13:10:26.868000 -05:00
   - :path: app/views/layouts/application.html.erb
     :cursor_offset: 1178
     :timestamp: 2012-12-16 17:32:25.621000 -05:00
   - :path: Rakefile
     :cursor_offset: 0
     :timestamp: 2012-09-16 13:44:46 -04:00
+  - :path: app/assets/javascripts/groups.js.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 13:28:35.260000 -04:00
+  - :path: app/controllers/groups_controller.rb
+    :cursor_offset: 330
+    :timestamp: 2012-09-30 13:28:34.320000 -04:00
+  - :path: app/assets/javascripts/application.js
+    :cursor_offset: 832
+    :timestamp: 2012-12-17 13:46:19.918000 -05:00
+  - :path: config/application.rb
+    :cursor_offset: 353
+    :timestamp: 2012-12-17 13:42:20.129000 -05:00
+  - :path: Gemfile
+    :cursor_offset: 312
+    :timestamp: 2012-12-17 13:10:26.868000 -05:00
+  - :path: app/views/events/index.html.erb
+    :cursor_offset: 1303
+    :timestamp: 2012-12-16 21:00:00.320000 -05:00
 files_to_retain: 0
