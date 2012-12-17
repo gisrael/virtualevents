@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title><%= yield :title %></title>
+  <title>Firstapp</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+      <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+</head>
+<body>
+  
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="#">Virtual Events</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><%= link_to 'Events', events_path %></li>
+              <li><%= link_to 'Groups', groups_path %></li>
+              <li><%= link_to 'About', abouts_path %></li>
+              <li><%= link_to 'Contact', contacts_path %></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+  
+  
+  
+  
+<% if alert %>
+<div class="alert alert-error">
+<%= alert %>
+</div>
+<% end %>
+<% if notice %>
+<div class="notice notice-error">
+<%= notice %>
+</div>
+<% end %>
+
+<%= yield %>
+
+
+</body>
+</html>

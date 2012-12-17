@@ -1,0 +1,148 @@
+--- 
+cursor_positions: 
+  - :path: db/migrate/20120930173110_create_events.rb
+    :cursor_offset: 226
+    :timestamp: 2012-09-30 13:32:48.877000 -04:00
+  - :path: db/migrate/20120930172833_create_groups.rb
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 13:28:33.932000 -04:00
+  - :path: db/schema.rb
+    :cursor_offset: 998
+    :timestamp: 2012-09-30 13:33:52.669000 -04:00
+  - :path: app/views/groups/show.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-10-17 19:47:55.090000 -04:00
+  - :path: app/views/groups/_form.html.erb
+    :cursor_offset: 447
+    :timestamp: 2012-10-13 23:52:05.281000 -04:00
+  - :path: spec/spec_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-10-17 20:03:43.183000 -04:00
+  - :path: spec/models/group_spec.rb
+    :cursor_offset: 42
+    :timestamp: 2012-10-18 20:35:36.723000 -04:00
+  - :path: spec/requests/events_spec.rb
+    :cursor_offset: 0
+    :timestamp: 2012-10-17 19:48:47.615000 -04:00
+  - :path: spec/requests/groups_spec.rb
+    :cursor_offset: 217
+    :timestamp: 2012-10-22 16:58:14.597000 -04:00
+  - :path: spec/models/event_spec.rb
+    :cursor_offset: 0
+    :timestamp: 2012-10-17 19:48:46.523000 -04:00
+  - :path: config/locales/environments/production.rb
+    :cursor_offset: 2566
+    :timestamp: 2012-10-28 11:41:17.298000 -04:00
+  - :path: app/views/groups/edit.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 13:28:34.588000 -04:00
+  - :path: config/newrelic.yml
+    :cursor_offset: 10594
+    :timestamp: 2012-11-11 18:16:04.327000 -05:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 52
+    :timestamp: 2012-11-05 21:17:18.371000 -05:00
+  - :path: app/assets/images/rails.png
+    :cursor_offset: 0
+    :timestamp: 2012-09-16 13:44:46 -04:00
+  - :path: public/js/bootstrap.js
+    :cursor_offset: 862
+    :timestamp: 2012-12-16 11:27:01.299000 -05:00
+  - :path: app/models/about.rb
+    :cursor_offset: 0
+    :timestamp: 2012-12-16 13:26:20.806000 -05:00
+  - :path: config/environment.rb
+    :cursor_offset: 0
+    :timestamp: 2012-09-16 13:44:46 -04:00
+  - :path: config/initializers/devise.rb
+    :cursor_offset: 0
+    :timestamp: 2012-10-28 11:36:15.816000 -04:00
+  - :path: app/models/contact.rb
+    :cursor_offset: 0
+    :timestamp: 2012-12-16 17:30:42.910000 -05:00
+  - :path: app/controllers/groups_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 13:28:34.320000 -04:00
+  - :path: app/models/group.rb
+    :cursor_offset: 58
+    :timestamp: 2012-10-22 16:58:20.889000 -04:00
+    :selection_offset: 90
+    :block_selection_mode: false
+  - :path: app/helpers/events_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 13:31:11.764000 -04:00
+  - :path: app/controllers/events_controller.rb
+    :cursor_offset: 119
+    :timestamp: 2012-12-16 16:10:15.531000 -05:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2012-12-16 17:30:43.113000 -05:00
+  - :path: app/views/events/new.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 13:31:11.506000 -04:00
+  - :path: app/views/events/edit.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 13:31:11.492000 -04:00
+  - :path: app/views/events/index.html.erb
+    :cursor_offset: 1438
+    :timestamp: 2012-12-16 21:00:00.320000 -05:00
+  - :path: app/views/groups/index.html.erb
+    :cursor_offset: 111
+    :timestamp: 2012-12-16 18:15:36.643000 -05:00
+  - :path: app/views/abouts/index.html.erb
+    :cursor_offset: 75
+    :timestamp: 2012-12-16 17:29:58.921000 -05:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 1178
+    :timestamp: 2012-12-16 17:32:25.621000 -05:00
+  - :path: app/views/contacts/index.html.erb
+    :cursor_offset: 235
+    :timestamp: 2012-12-16 17:39:22.851000 -05:00
+  - :path: app/views/events/_form.html.erb
+    :cursor_offset: 1293
+    :timestamp: 2012-12-16 22:08:07.831000 -05:00
+  - :path: app/models/event.rb
+    :cursor_offset: 354
+    :timestamp: 2012-12-16 21:01:43.698000 -05:00
+  - :path: app/views/events/show.html.erb
+    :cursor_offset: 276
+    :timestamp: 2012-12-16 22:09:19.265000 -05:00
+  - :path: config/application.rb
+    :cursor_offset: 778
+    :timestamp: 2012-10-28 11:39:51.358000 -04:00
+  - :path: app/assets/stylesheets/application.css
+    :cursor_offset: 0
+    :timestamp: 2012-09-16 13:44:46 -04:00
+  - :path: app/assets/javascripts/application.js
+    :cursor_offset: 640
+    :timestamp: 2012-12-16 23:06:27.924000 -05:00
+  - :path: app/assets/javascripts/contacts.js.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-12-16 17:30:43.942000 -05:00
+  - :path: app/assets/javascripts/events.js.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 13:31:12.147000 -04:00
+  - :path: app/assets/javascripts/groups.js.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 13:28:35.260000 -04:00
+  - :path: app/assets/javascripts/abouts.js.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-12-16 13:26:21.727000 -05:00
+  - :path: Gemfile
+    :cursor_offset: 634
+    :timestamp: 2012-12-16 22:38:56.115000 -05:00
+  - :path: .slugignore
+    :cursor_offset: 30
+    :timestamp: 2012-12-16 23:04:12.218000 -05:00
+  - :path: app/assets/stylesheets/abouts.css.scss
+    :cursor_offset: 0
+    :timestamp: 2012-12-16 13:26:21.851000 -05:00
+  - :path: app/assets/stylesheets/bootstrap.css
+    :cursor_offset: 23040
+    :timestamp: 2012-12-16 17:24:06.634000 -05:00
+    :selection_offset: 23048
+    :block_selection_mode: false
+  - :path: app/assets/stylesheets/events.css.scss
+    :cursor_offset: 0
+    :timestamp: 2012-09-30 13:31:12.331000 -04:00
+files_to_retain: 0
