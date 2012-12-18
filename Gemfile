@@ -4,13 +4,12 @@ gem 'rails', '3.2.8'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-
+gem "simple_calendar"
 group :development, :test do
   gem 'sqlite3'
   gem 'rspec-rails'
   gem 'debugger'
   gem 'capybara'
-  gem "simple_calendar"
   gem "jquery-rails"
   gem 'jquery-ui-rails'
 end
